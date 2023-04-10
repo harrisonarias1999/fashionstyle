@@ -93,7 +93,7 @@ header img:hover{
 
 #banners-home img {
 	border: 2px solid #fff;
-
+	display: inline;
 }
 
 #banners-home img:hover {
@@ -139,7 +139,9 @@ ul {
 	list-style-type: none;
 }
 
-
+li {
+	display: inline;
+}
 
 #textofooter {
 	display: flex;
